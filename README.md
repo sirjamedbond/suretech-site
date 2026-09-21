@@ -6,4 +6,4 @@ Static HTML and CSS, original SVG SureTech identity, no client JavaScript or ext
 
 GitHub Pages serves the root of the main branch. Edit the root files to update this deployment. The complete original source, build checker and optional Actions workflow are included in suretech-source.zip.
 
-The Contact section awaits a verified business email. No contact address has been invented. No custom domain or DNS changes are configured.
+Contact: SureTech Team — info@suretech.live. No custom domain or DNS changes are configured.
